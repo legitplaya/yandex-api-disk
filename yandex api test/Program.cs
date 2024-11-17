@@ -13,6 +13,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 namespace yandex_api_test
 {
+    //ФУНКЦИОНАЛ НЕ ПОЛНЫЙ
     class Program
     {
         private static readonly string telegramToken = "";
